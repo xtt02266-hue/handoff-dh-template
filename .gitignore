@@ -1,0 +1,19 @@
+# Keil build output and local debugger state
+MDK-ARM/CtrBoard/
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/DebugConfig/
+*.uvguix.*
+*.o
+*.d
+*.dep
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.htm
+*.log
+*.bak
+__pycache__/
+*.pyc
